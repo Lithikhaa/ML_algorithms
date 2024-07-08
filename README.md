@@ -1,2 +1,2 @@
-# ML_algorithms
-Bank Marketing Analysis 
+# MachineLearning_algorithms
+Bank Marketing Analysis using all supervised algorithms
